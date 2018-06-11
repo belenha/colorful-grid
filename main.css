@@ -1,0 +1,96 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.yellow{
+    display: -webkit-flex;
+    /* display: ms-flexbox; */
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    width: 100%;
+}
+.amarillo{
+    background-color: #FDFE31;
+    display: inline-block;
+    /* flex-direction: column; */
+    height: 50px;
+    /* padding: 1px; */
+    text-align: center;
+    width: 8.3%
+}
+.green{
+    display: flex;
+    display: -webkit-flex;
+    justify-content: space-around;
+    padding: 10px;
+    width: 100%;
+}
+.verde{
+    background-color: #AFFE2C;
+    display: inline-block;
+    height: 50px;
+    /* padding: 1px; */
+    text-align: center;
+    width: 16.6%;
+}
+.aqua{
+    display: flex;
+    display: -webkit-flex;
+    justify-content: space-around;
+    padding: 10px;
+    width: 100%;
+}
+.agua{
+    background-color: #30E1A7;
+    display: inline-block;
+    height: 50px;
+    /* padding: 1px; */
+    text-align: center;
+    width: 25%;
+}
+.blue{
+    display: flex;
+    display: -webkit-flex;
+    justify-content: space-around;
+    padding: 10px;
+    width: 100%;
+}
+.azul{
+    background-color: #1FB6AC;
+    display: inline-block;
+    height: 50px;
+    /* padding: 1px; */
+    text-align: center;
+    width: 33%;
+}
+.purple{
+    display: flex;
+    display: -webkit-flex;
+    justify-content: space-around;
+    padding: 10px;
+    width: 100%;
+}
+.morado{
+    background-color: #9C46CF;
+    display: inline-block;
+    height: 50px;
+    /* padding: 1px; */
+    text-align: center;
+    width: 50%;
+}
+.pink{
+    display: flex;
+    display: -webkit-flex;
+    justify-content: space-around;
+    padding: 10px;
+    width: 100%;
+}
+.magenta{
+    background-color: #CF2DA8;
+    display: inline-block;
+    height: 50px;
+    /* padding: 1px; */
+    text-align: center;
+    width: 100%;
+}
